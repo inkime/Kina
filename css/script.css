@@ -1,0 +1,127 @@
+body {
+    font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, \\5FAE\8F6F\96C5\9ED1, STHeitiSC-Light, simsun, \\5B8B\4F53, WenQuanYi Zen Hei, WenQuanYi Micro Hei, "sans-serif";
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5rem;
+    list-style: none;
+    background-image: -webkit-linear-gradient(top, #FFF, #F9F9F9);
+}
+
+html, body {
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#kina_editor_container {
+    position: absolute;
+    top: 0;
+    left: 280px;
+    bottom: 0;
+    right: 0;
+    background: white;
+}
+
+.acc {
+    background: rgba(194, 193, 208, 0.2);
+    position: relative;
+}
+
+#tool {
+    z-index: 90;
+    position: absolute;
+    padding: 1px 3px;
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+#tool span i {
+    cursor: pointer;
+}
+
+#tool span.more {
+    position: relative;
+}
+
+#tool span.more p {
+    margin: 5px 0;
+    padding: 5px 0;
+}
+
+#tool span.more p:hover {
+    cursor: pointer;
+    background: #444;
+    color: #fff;
+}
+
+.fa-play {
+    color: #70ba56;
+}
+
+.fa-wrench {
+    color: #333333
+}
+
+.extend {
+    position: absolute;
+    top: 25px;
+    right: 0;
+    width: 60px;
+    background: #fff;
+    font-size: 12px;
+    text-align: center;
+    display: none;
+    border: 1px solid #D9D9D9;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    width: 280px;
+    font-size: 14px;
+    transition: box-shadow 0.3s ease-in-out;
+    /*box-shadow: 0 0 10px rgba(0,0,0,.1);*/
+}
+
+.header > div {
+    margin: 0 10px;
+}
+
+.header .title {
+    font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.header input {
+    line-height: 20px;
+    height: 20px;
+    border: 1px solid #e3e3e3;
+    padding: 5px;
+    outline: none;
+    border-radius: 5px;
+}
+
+.header textarea {
+    resize: none;
+    width: 90%;
+    height: 50px;
+    text-align: left;
+    word-break: break-all;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+}
+
+.detail .item {
+    margin-bottom: 10px;
+}
+
+#clipboard {
+    position: absolute;
+    opacity: 0;
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="/images/16.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kina - 轻量级ES网关查询工具</title>
+    <link rel="stylesheet" href="/css/font-awesome/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/script.css">
+</head>
+<body>
+    <div class="header">
+        <div class="title">网关地址：</div>
+        <div><textarea name="url" id="url"></textarea></div>
+        <div class="headerInfo">
+            <div class="title">头部信息：</div>
+            <div class="detail">
+                <div class="item"><input type="text" name="key" value="Authorization" placeholder="Authorization" readonly disabled /></div>
+                <div class="item">
+                    <textarea name="value" style="height: 150px"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div id="tool">
+            <span class="run"><i class="fa fa-play"></i></span>
+            <span class="more">
+                <i class="fa fa-wrench"></i>
+                <div class="extend"><p class="copy">复制</p><p class="format">格式化</p></div>
+            </span>
+        </div>
+        <div id="kina_editor_container"></div>
+        <textarea id="clipboard"></textarea>
+    </div>
+    <script src="js/ace.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/layer/layer.js"></script>
+    <script src="js/theme-textmate.js"></script>
+    <script src="js/mode-json.js"></script>
+    <script src="js/ext-language_tools.js"></script>
+    <script src="js/ext-json.js"></script>
+    <script src="js/worker-json.js"></script>
+    <script src="js/ext-beautify.min.js"></script>
+    <script src="js/ext-split.js"></script>
+    <script src="js/ext-searchbox.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

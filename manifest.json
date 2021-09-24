@@ -1,0 +1,29 @@
+{
+  "name": "Kina",
+  "version": "1.0",
+  "description": "轻量级ES网关查询工具",
+  "icons": {
+    "16": "images/16.png",
+    "48": "images/48.png",
+    "128": "images/128.png"
+  },
+  "browser_action": {
+    "default_icon": "images/16.png",
+    "default_title": "Kina"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ],
+    "persistent": false
+  },
+  "permissions": [
+    "tabs",
+    "https://*/*",
+    "http://*/*"
+  ],
+  "content_scripts": [
+  ],
+  "offline_enabled": true,
+  "manifest_version": 2
+}
