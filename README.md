@@ -11,7 +11,7 @@
 
 右侧输出 ES 网关访问结果，以 JSON 形式展示
 
-更多实现细节，请查看 [Kina浏览器插件](https://jyncode.com/show/217.html) 博客文章
+更多实现细节，请查看 [Kina浏览器插件](https://jyncode.com/show/217.html "Kina浏览器插件") 博客文章
 
 操作过程如下图所示：
 
@@ -19,8 +19,8 @@
 
 地址分别为：
 
-https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca
+[https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca](https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca "360插件市场")
 
 也可以直接下载 CRX 文件安装
 
-[点击下载](dist/Kina.crx)
+[点击下载](dist/Kina.crx "下载crx")
