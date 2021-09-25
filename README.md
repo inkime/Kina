@@ -11,10 +11,16 @@
 
 右侧输出 ES 网关访问结果，以 JSON 形式展示
 
-了解更多信息，请[戳这里](https://jyncode.com/show/217.html)
+更多实现细节，请查看 [Kina浏览器插件](https://jyncode.com/show/217.html) 博客文章
 
 操作过程如下图所示：
 
-此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装，也可以直接下载 CRX 文件安装
+此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装
+
+地址分别为：
+
+https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca
+
+也可以直接下载 CRX 文件安装
 
 [点击下载](dist/Kina.crx)
