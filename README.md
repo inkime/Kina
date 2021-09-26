@@ -13,13 +13,7 @@
 
 更多实现细节，请查看 [Kina浏览器插件](https://jyncode.com/show/217.html "Kina浏览器插件") 博客文章
 
-操作过程如下图所示：
-
-![](http://img.jyncode.com/kina/screenshot.gif)
-
-此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装
-
-地址分别为：
+此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装，地址分别为：
 
 [https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca](https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca "360插件市场")
 
