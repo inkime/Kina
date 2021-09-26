@@ -15,7 +15,7 @@
 
 操作过程如下图所示：
 
-![](dist/screenshot.gif)
+![](http://img.jyncode.com/kina/screenshot.gif)
 
 此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装
 
