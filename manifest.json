@@ -18,7 +18,6 @@
     "persistent": false
   },
   "permissions": [
-    "tabs",
     "https://*/*",
     "http://*/*"
   ],
