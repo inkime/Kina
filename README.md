@@ -15,7 +15,7 @@
 
 此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装，地址分别为：
 
-[https://chrome.google.com/webstore/detail/kina/jedjmimpmngmbbcgojhlgamocnjdfcbm?hl=zh](https://chrome.google.com/webstore/detail/kina/jedjmimpmngmbbcgojhlgamocnjdfcbm?hl=zh)
+[https://chrome.google.com/webstore/detail/kina/jedjmimpmngmbbcgojhlgamocnjdfcbm?hl=zh](https://chrome.google.com/webstore/detail/kina/jedjmimpmngmbbcgojhlgamocnjdfcbm?hl=zh "Chrome插件市场")
 
 [https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca](https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca "360插件市场")
 
