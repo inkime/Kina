@@ -13,12 +13,12 @@
 
 更多实现细节，请查看 [Kina浏览器插件](https://jyncode.com/show/217.html "Kina浏览器插件") 博客文章
 
-此插件目前已上架 Chrome 和 360 浏览器，可以在应用市场搜索 "Kina" 安装，地址分别为：
+此插件目前已上架 Chrome 浏览器，可以在应用市场搜索 "Kina" 安装，地址为：
 
 [https://chrome.google.com/webstore/detail/kina/jedjmimpmngmbbcgojhlgamocnjdfcbm?hl=zh](https://chrome.google.com/webstore/detail/kina/jedjmimpmngmbbcgojhlgamocnjdfcbm?hl=zh "Chrome插件市场")
 
-[https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca](https://ext.chrome.360.cn/webstore/detail/hjnnalolmfjkfgagcnlpdccnopadccca "360插件市场")
+支持其他 Chromium 内核浏览器使用，例如 360 浏览器
 
-也可以直接下载 CRX 文件安装
+也可以直接下载 CRX 文件安装：[点击下载](dist/Kina_chrome.crx "下载crx")
 
-[点击下载](dist/Kina.crx "下载crx")
+百度网盘下载：链接: https://pan.baidu.com/s/1IKQ78WD3DoR_GdFgNvHXZg 提取码: cht5
